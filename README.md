@@ -2,9 +2,7 @@
 
 > Client-side registration form with real-time feedback validation built with React 19 and Vite.
 
-<a href="https://eryks23.github.io/react-auth-form-validation/">
-  <img src="https://img.shields.io/badge/demo-live-brightgreen" alt="Live Demo">
-</a>
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://eryks23.github.io/react-auth-form-validation/)
 [![Deploy to GitHub Pages](https://github.com/eryks23/react-auth-form-validation/actions/workflows/static.yml/badge.svg)](https://github.com/eryks23/react-auth-form-validation/actions/workflows/static.yml)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)](https://vite.dev/)
