@@ -35,7 +35,7 @@
 
 ## Live Demo
 
-**[https://eryks23.github.io/react-auth-form-validation/](https://eryks23.github.io/react-auth-form-validation/)**
+**[https://eryks23.github.io/react-auth-form-validation-main/](https://eryks23.github.io/react-auth-form-validation-main/)**
 
 ---
 
