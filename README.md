@@ -2,7 +2,7 @@
 
 > Client-side registration form with real-time feedback validation built with React 19 and Vite.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://eryks23.github.io/react-auth-form-validation/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?logo=github)](https://eryks23.github.io/NOWA_NAZWA_REPO/)
 [![Deploy to GitHub Pages](https://github.com/eryks23/react-auth-form-validation/actions/workflows/static.yml/badge.svg)](https://github.com/eryks23/react-auth-form-validation/actions/workflows/static.yml)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)](https://vite.dev/)
@@ -13,7 +13,6 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Live Demo](#live-demo)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [Requirements](#requirements)
@@ -30,12 +29,6 @@
 ## Description
 
 `react-auth-form-validation` is a lightweight, single-page React application that demonstrates client-side form validation for a user registration flow. It enforces a set of validation rules — required fields, email format, password strength, and confirmation matching — and renders contextual Bootstrap alerts in response. The project is intended as a reference implementation for controlled form components in React and is deployed automatically to GitHub Pages on every push to `main`.
-
----
-
-## Live Demo
-
-**[https://eryks23.github.io/react-auth-form-validation-main/](https://eryks23.github.io/react-auth-form-validation-main/)**
 
 ---
 
